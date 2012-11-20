@@ -1,0 +1,521 @@
+<thesurus>
+  <word value="all" pos="pron">
+    <synonyms>all</synonyms>
+  </word>
+  <word value="I" pos="pron">
+    <synonyms>I</synonyms>
+  </word>
+  <word value="another" pos="pron">
+    <synonyms>another</synonyms>
+  </word>
+  <word value="any" pos="pron">
+    <synonyms>any</synonyms>
+  </word>
+  <word value="anybody" pos="pron">
+    <synonyms>anybody</synonyms>
+  </word>
+  <word value="anyone" pos="pron">
+    <synonyms>anyone</synonyms>
+  </word>
+  <word value="anything" pos="pron">
+    <synonyms>anything</synonyms>
+  </word>
+  <word value="both" pos="pron">
+    <synonyms>both</synonyms>
+  </word>
+  <word value="each" pos="pron">
+    <synonyms>each</synonyms>
+  </word>
+  <word value="each other" pos="pron">
+    <synonyms>each other</synonyms>
+  </word>
+  <word value="either" pos="pron">
+    <synonyms>either</synonyms>
+  </word>
+  <word value="everybody" pos="pron">
+    <synonyms>everybody</synonyms>
+  </word>
+  <word value="everyone" pos="pron">
+    <synonyms>everyone</synonyms>
+  </word>
+  <word value="everything" pos="pron">
+    <synonyms>everything</synonyms>
+  </word>
+  <word value="few" pos="pron">
+    <synonyms>few</synonyms>
+  </word>
+  <word value="he" pos="pron">
+    <synonyms>he</synonyms>
+  </word>
+  <word value="her" pos="pron">
+    <synonyms>her</synonyms>
+  </word>
+  <word value="hers" pos="pron">
+    <synonyms>hers</synonyms>
+  </word>
+  <word value="herself" pos="pron">
+    <synonyms>herself</synonyms>
+  </word>
+  <word value="him" pos="pron">
+    <synonyms>him</synonyms>
+  </word>
+  <word value="himself" pos="pron">
+    <synonyms>himself</synonyms>
+  </word>
+  <word value="his" pos="pron">
+    <synonyms>his</synonyms>
+  </word>
+  <word value="itself" pos="pron">
+    <synonyms>itself</synonyms>
+  </word>
+  <word value="little" pos="pron">
+    <synonyms>little</synonyms>
+  </word>
+  <word value="me" pos="pron">
+    <synonyms>me</synonyms>
+  </word>
+  <word value="mine" pos="pron">
+    <synonyms>mine</synonyms>
+  </word>
+  <word value="my" pos="pron">
+    <synonyms>my</synonyms>
+  </word>
+  <word value="myself" pos="pron">
+    <synonyms>myself</synonyms>
+  </word>
+  <word value="neither" pos="pron">
+    <synonyms>neither</synonyms>
+  </word>
+  <word value="none" pos="pron">
+    <synonyms>none</synonyms>
+  </word>
+  <word value="no one" pos="pron">
+    <synonyms>no one</synonyms>
+  </word>
+  <word value="nobody" pos="pron">
+    <synonyms>nobody</synonyms>
+  </word>
+  <word value="nothing" pos="pron">
+    <synonyms>nothing</synonyms>
+  </word>
+  <word value="ones" pos="pron">
+    <synonyms>ones</synonyms>
+  </word>
+  <word value="other" pos="pron">
+    <synonyms>other</synonyms>
+  </word>
+  <word value="others" pos="pron">
+    <synonyms>others</synonyms>
+  </word>
+  <word value="our" pos="pron">
+    <synonyms>our</synonyms>
+  </word>
+  <word value="ours" pos="pron">
+    <synonyms>ours</synonyms>
+  </word>
+  <word value="ourselves" pos="pron">
+    <synonyms>ourselves</synonyms>
+  </word>
+  <word value="several" pos="pron">
+    <synonyms>several</synonyms>
+  </word>
+  <word value="she" pos="pron">
+    <synonyms>she</synonyms>
+  </word>
+  <word value="some" pos="pron">
+    <synonyms>some</synonyms>
+  </word>
+  <word value="somebody" pos="pron">
+    <synonyms>somebody</synonyms>
+  </word>
+  <word value="someone" pos="pron">
+    <synonyms>someone</synonyms>
+  </word>
+  <word value="something" pos="pron">
+    <synonyms>something</synonyms>
+  </word>
+  <word value="that" pos="pron">
+    <synonyms>that</synonyms>
+  </word>
+  <word value="their" pos="pron">
+    <synonyms>their</synonyms>
+  </word>
+  <word value="theirs" pos="pron">
+    <synonyms>theirs</synonyms>
+  </word>
+  <word value="them" pos="pron">
+    <synonyms>them</synonyms>
+  </word>
+  <word value="themselves" pos="pron">
+    <synonyms>themselves</synonyms>
+  </word>
+  <word value="these" pos="pron">
+    <synonyms>these</synonyms>
+  </word>
+  <word value="they" pos="pron">
+    <synonyms>they</synonyms>
+  </word>
+  <word value="this" pos="pron">
+    <synonyms>this</synonyms>
+  </word>
+  <word value="those" pos="pron">
+    <synonyms>those</synonyms>
+  </word>
+  <word value="us" pos="pron">
+    <synonyms>us</synonyms>
+  </word>
+  <word value="we" pos="pron">
+    <synonyms>we</synonyms>
+  </word>
+  <word value="what" pos="pron">
+    <synonyms>what</synonyms>
+  </word>
+  <word value="whatever" pos="pron">
+    <synonyms>whatever</synonyms>
+  </word>
+  <word value="which" pos="pron">
+    <synonyms>which</synonyms>
+  </word>
+  <word value="whichever" pos="pron">
+    <synonyms>whichever</synonyms>
+  </word>
+  <word value="who" pos="pron">
+    <synonyms>who</synonyms>
+  </word>
+  <word value="whom" pos="pron">
+    <synonyms>whom</synonyms>
+  </word>
+  <word value="whomever" pos="pron">
+    <synonyms>whomever</synonyms>
+  </word>
+  <word value="whose" pos="pron">
+    <synonyms>whose</synonyms>
+  </word>
+  <word value="you" pos="pron">
+    <synonyms>you</synonyms>
+  </word>
+  <word value="your" pos="pron">
+    <synonyms>your</synonyms>
+  </word>
+  <word value="yours" pos="pron">
+    <synonyms>yours</synonyms>
+  </word>
+  <word value="yourself" pos="pron">
+    <synonyms>yourself</synonyms>
+  </word>
+  <word value="yourselves" pos="pron">
+    <synonyms>yourselves</synonyms>
+  </word>
+  <word value="a" pos="art">
+    <synonyms>a</synonyms>
+  </word>
+  <word value="an" pos="art">
+    <synonyms>an</synonyms>
+  </word>
+  <word value="the" pos="art">
+    <synonyms>the</synonyms>
+  </word>
+  <word value="about" pos="prep">
+    <synonyms>about</synonyms>
+  </word>
+  <word value="above" pos="prep">
+    <synonyms>above</synonyms>
+  </word>
+  <word value="across" pos="prep">
+    <synonyms>across</synonyms>
+  </word>
+  <word value="after" pos="prep">
+    <synonyms>after</synonyms>
+  </word>
+  <word value="against" pos="prep">
+    <synonyms>against</synonyms>
+  </word>
+  <word value="along" pos="prep">
+    <synonyms>along</synonyms>
+  </word>
+  <word value="among" pos="prep">
+    <synonyms>among</synonyms>
+  </word>
+  <word value="around" pos="prep">
+    <synonyms>around</synonyms>
+  </word>
+  <word value="as" pos="prep">
+    <synonyms>as</synonyms>
+  </word>
+  <word value="at" pos="prep">
+    <synonyms>at</synonyms>
+  </word>
+  <word value="before" pos="prep">
+    <synonyms>before</synonyms>
+  </word>
+  <word value="behind" pos="prep">
+    <synonyms>behind</synonyms>
+  </word>
+  <word value="below" pos="prep">
+    <synonyms>below</synonyms>
+  </word>
+  <word value="beneath" pos="prep">
+    <synonyms>beneath</synonyms>
+  </word>
+  <word value="beside" pos="prep">
+    <synonyms>beside</synonyms>
+  </word>
+  <word value="between" pos="prep">
+    <synonyms>between</synonyms>
+  </word>
+  <word value="by" pos="prep">
+    <synonyms>by</synonyms>
+  </word>
+  <word value="during" pos="prep">
+    <synonyms>during</synonyms>
+  </word>
+  <word value="except" pos="prep">
+    <synonyms>except</synonyms>
+  </word>
+  <word value="for" pos="prep">
+    <synonyms>for</synonyms>
+  </word>
+  <word value="from" pos="prep">
+    <synonyms>from</synonyms>
+  </word>
+  <word value="in" pos="prep">
+    <synonyms>in</synonyms>
+  </word>
+  <word value="in front of" pos="prep">
+    <synonyms>in front of</synonyms>
+  </word>
+  <word value="inside" pos="prep">
+    <synonyms>inside</synonyms>
+  </word>
+  <word value="instead of" pos="prep">
+    <synonyms>instead of</synonyms>
+  </word>
+  <word value="into" pos="prep">
+    <synonyms>into</synonyms>
+  </word>
+  <word value="like" pos="prep">
+    <synonyms>like</synonyms>
+  </word>
+  <word value="near" pos="prep">
+    <synonyms>near</synonyms>
+  </word>
+  <word value="of" pos="prep">
+    <synonyms>of</synonyms>
+  </word>
+  <word value="off" pos="prep">
+    <synonyms>off</synonyms>
+  </word>
+  <word value="on" pos="prep">
+    <synonyms>on</synonyms>
+  </word>
+  <word value="onto" pos="prep">
+    <synonyms>onto</synonyms>
+  </word>
+  <word value="on top of" pos="prep">
+    <synonyms>on top of</synonyms>
+  </word>
+  <word value="out of" pos="prep">
+    <synonyms>out of</synonyms>
+  </word>
+  <word value="outside" pos="prep">
+    <synonyms>outside</synonyms>
+  </word>
+  <word value="over" pos="prep">
+    <synonyms>over</synonyms>
+  </word>
+  <word value="past" pos="prep">
+    <synonyms>past</synonyms>
+  </word>
+  <word value="since" pos="prep">
+    <synonyms>since</synonyms>
+  </word>
+  <word value="through" pos="prep">
+    <synonyms>through</synonyms>
+  </word>
+  <word value="to" pos="prep">
+    <synonyms>to</synonyms>
+  </word>
+  <word value="under" pos="prep">
+    <synonyms>under</synonyms>
+  </word>
+  <word value="underneath" pos="prep">
+    <synonyms>underneath</synonyms>
+  </word>
+  <word value="until" pos="prep">
+    <synonyms>until</synonyms>
+  </word>
+  <word value="up" pos="prep">
+    <synonyms>up</synonyms>
+  </word>
+  <word value="upon" pos="prep">
+    <synonyms>upon</synonyms>
+  </word>
+  <word value="with" pos="prep">
+    <synonyms>with</synonyms>
+  </word>
+  <word value="within" pos="prep">
+    <synonyms>within</synonyms>
+  </word>
+  <word value="without" pos="prep">
+    <synonyms>without</synonyms>
+  </word>
+  <word value="and" pos="conj">
+    <synonyms>and</synonyms>
+  </word>
+  <word value="or" pos="conj">
+    <synonyms>or</synonyms>
+  </word>
+  <word value="but" pos="conj">
+    <synonyms>but</synonyms>
+  </word>
+  <word value="nor" pos="conj">
+    <synonyms>nor</synonyms>
+  </word>
+  <word value="so" pos="conj">
+    <synonyms>so</synonyms>
+  </word>
+  <word value="yet" pos="conj">
+    <synonyms>yet</synonyms>
+  </word>
+  <word value="am" pos="aux">
+    <synonyms>am</synonyms>
+  </word>
+  <word value="are" pos="aux">
+    <synonyms>are</synonyms>
+  </word>
+  <word value="aren't" pos="aux">
+    <synonyms>aren't</synonyms>
+  </word>
+  <word value="ain't" pos="aux">
+    <synonyms>ain't</synonyms>
+  </word>
+  <word value="'m" pos="aux">
+    <synonyms>'m</synonyms>
+  </word>
+  <word value="'re" pos="aux">
+    <synonyms>'re</synonyms>
+  </word>
+  <word value="be" pos="aux">
+    <synonyms>be</synonyms>
+  </word>
+  <word value="been" pos="aux">
+    <synonyms>been</synonyms>
+  </word>
+  <word value="can" pos="aux">
+    <synonyms>can</synonyms>
+  </word>
+  <word value="can't" pos="aux">
+    <synonyms>can't</synonyms>
+  </word>
+  <word value="could" pos="aux">
+    <synonyms>could</synonyms>
+  </word>
+  <word value="couldn't" pos="aux">
+    <synonyms>couldn't</synonyms>
+  </word>
+  <word value="did" pos="aux">
+    <synonyms>did</synonyms>
+  </word>
+  <word value="didn't" pos="aux">
+    <synonyms>didn't</synonyms>
+  </word>
+  <word value="do" pos="aux">
+    <synonyms>do</synonyms>
+  </word>
+  <word value="don't" pos="aux">
+    <synonyms>don't</synonyms>
+  </word>
+  <word value="does" pos="aux">
+    <synonyms>does</synonyms>
+  </word>
+  <word value="doesn't" pos="aux">
+    <synonyms>doesn't</synonyms>
+  </word>
+  <word value="had" pos="aux">
+    <synonyms>had</synonyms>
+  </word>
+  <word value="hadn't" pos="aux">
+    <synonyms>hadn't</synonyms>
+  </word>
+  <word value="'d" pos="aux">
+    <synonyms>'d</synonyms>
+  </word>
+  <word value="has" pos="aux">
+    <synonyms>has</synonyms>
+  </word>
+  <word value="hasn't" pos="aux">
+    <synonyms>hasn't</synonyms>
+  </word>
+  <word value="have" pos="aux">
+    <synonyms>have</synonyms>
+  </word>
+  <word value="haven't" pos="aux">
+    <synonyms>haven't</synonyms>
+  </word>
+  <word value="is" pos="aux">
+    <synonyms>is</synonyms>
+  </word>
+  <word value="isn't" pos="aux">
+    <synonyms>isn't</synonyms>
+  </word>
+  <word value="may" pos="aux">
+    <synonyms>may</synonyms>
+  </word>
+  <word value="mayn't" pos="aux">
+    <synonyms>mayn't</synonyms>
+  </word>
+  <word value="might" pos="aux">
+    <synonyms>might</synonyms>
+  </word>
+  <word value="mightn't" pos="aux">
+    <synonyms>mightn't</synonyms>
+  </word>
+  <word value="must" pos="aux">
+    <synonyms>must</synonyms>
+  </word>
+  <word value="mustn't" pos="aux">
+    <synonyms>mustn't</synonyms>
+  </word>
+  <word value="ought" pos="aux">
+    <synonyms>ought</synonyms>
+  </word>
+  <word value="oughtn't" pos="aux">
+    <synonyms>oughtn't</synonyms>
+  </word>
+  <word value="shall" pos="aux">
+    <synonyms>shall</synonyms>
+  </word>
+  <word value="shan't" pos="aux">
+    <synonyms>shan't</synonyms>
+  </word>
+  <word value="should" pos="aux">
+    <synonyms>should</synonyms>
+  </word>
+  <word value="shouldn't" pos="aux">
+    <synonyms>shouldn't</synonyms>
+  </word>
+  <word value="was" pos="aux">
+    <synonyms>was</synonyms>
+  </word>
+  <word value="wasn't" pos="aux">
+    <synonyms>wasn't</synonyms>
+  </word>
+  <word value="were" pos="aux">
+    <synonyms>were</synonyms>
+  </word>
+  <word value="weren't" pos="aux">
+    <synonyms>weren't</synonyms>
+  </word>
+  <word value="will" pos="aux">
+    <synonyms>will</synonyms>
+  </word>
+  <word value="willn't" pos="aux">
+    <synonyms>willn't</synonyms>
+  </word>
+  <word value="would" pos="aux">
+    <synonyms>would</synonyms>
+  </word>
+  <word value="wouldn't" pos="aux">
+    <synonyms>wouldn't</synonyms>
+  </word>
+</thesurus>
